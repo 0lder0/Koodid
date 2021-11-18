@@ -7,3 +7,4 @@ def paranda_komavead(lause):
 paranda_komavead("Mul on igav sest päev on hall.")
 paranda_komavead("Võimalik kuid ma ei tea...")
 paranda_komavead("Pean ettevalmistuma et seda teha.")
+paranda_komavead("Tuli välja et see ei olegi tõsi.")
